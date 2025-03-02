@@ -1,0 +1,47 @@
+﻿  win32_platform.cpp
+C:\Users\sachi\source\repos\My_First_Cpp_Game\My_First_Cpp_Game\renderer.cpp(57,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+C:\Users\sachi\source\repos\My_First_Cpp_Game\My_First_Cpp_Game\renderer.cpp(58,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+C:\Users\sachi\source\repos\My_First_Cpp_Game\My_First_Cpp_Game\renderer.cpp(59,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+C:\Users\sachi\source\repos\My_First_Cpp_Game\My_First_Cpp_Game\renderer.cpp(60,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+C:\Users\sachi\source\repos\My_First_Cpp_Game\My_First_Cpp_Game\game.cpp(112,42): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'win32_platform.cpp')
+  
+C:\Users\sachi\source\repos\My_First_Cpp_Game\My_First_Cpp_Game\game.cpp(113,41): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'win32_platform.cpp')
+  
+C:\Users\sachi\source\repos\My_First_Cpp_Game\My_First_Cpp_Game\game.cpp(118,66): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'win32_platform.cpp')
+  
+C:\Users\sachi\source\repos\My_First_Cpp_Game\My_First_Cpp_Game\game.cpp(127,66): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'win32_platform.cpp')
+  
+C:\Users\sachi\source\repos\My_First_Cpp_Game\My_First_Cpp_Game\game.cpp(157,49): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'win32_platform.cpp')
+  
+C:\Users\sachi\source\repos\My_First_Cpp_Game\My_First_Cpp_Game\game.cpp(158,37): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'win32_platform.cpp')
+  
+C:\Users\sachi\source\repos\My_First_Cpp_Game\My_First_Cpp_Game\game.cpp(159,46): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'win32_platform.cpp')
+  
+C:\Users\sachi\source\repos\My_First_Cpp_Game\My_First_Cpp_Game\game.cpp(162,49): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'win32_platform.cpp')
+  
+C:\Users\sachi\source\repos\My_First_Cpp_Game\My_First_Cpp_Game\game.cpp(163,46): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'win32_platform.cpp')
+  
+C:\Users\sachi\source\repos\My_First_Cpp_Game\My_First_Cpp_Game\game.cpp(164,36): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'win32_platform.cpp')
+  
+C:\Users\sachi\source\repos\My_First_Cpp_Game\My_First_Cpp_Game\game.cpp(168,41): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'win32_platform.cpp')
+  
+  My_First_Cpp_Game.vcxproj -> C:\Users\sachi\source\repos\My_First_Cpp_Game\x64\Debug\My_First_Cpp_Game.exe
